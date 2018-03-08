@@ -1,0 +1,11 @@
+C:\EstudosDotNetCore\identity\bin\Debug\netcoreapp2.0\identity.deps.json
+C:\EstudosDotNetCore\identity\bin\Debug\netcoreapp2.0\identity.runtimeconfig.json
+C:\EstudosDotNetCore\identity\bin\Debug\netcoreapp2.0\identity.runtimeconfig.dev.json
+C:\EstudosDotNetCore\identity\bin\Debug\netcoreapp2.0\identity.dll
+C:\EstudosDotNetCore\identity\bin\Debug\netcoreapp2.0\identity.pdb
+C:\EstudosDotNetCore\identity\obj\Debug\netcoreapp2.0\identity.csproj.CoreCompileInputs.cache
+C:\EstudosDotNetCore\identity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\EstudosDotNetCore\identity\obj\Debug\netcoreapp2.0\identity.AssemblyInfoInputs.cache
+C:\EstudosDotNetCore\identity\obj\Debug\netcoreapp2.0\identity.AssemblyInfo.cs
+C:\EstudosDotNetCore\identity\obj\Debug\netcoreapp2.0\identity.dll
+C:\EstudosDotNetCore\identity\obj\Debug\netcoreapp2.0\identity.pdb
